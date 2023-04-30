@@ -46,4 +46,16 @@ const appMenuItems = <MenuItem>[
     link: '/animated',
     icon: Icons.check_box_outline_blank_rounded,
   ),
+    MenuItem(
+    title: 'Ui controls + Tiles',
+    subTitle: 'Stateful widget animado',
+    link: '/ui-controls',
+    icon: Icons.car_rental_outlined,
+  ),
+    MenuItem(
+    title: 'Introducción a la aplicación',
+    subTitle: 'Stateful widget animado',
+    link: '/tutorial',
+    icon: Icons.accessibility_rounded,
+  ),
 ];
